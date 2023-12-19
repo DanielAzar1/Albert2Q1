@@ -21,6 +21,6 @@ public class MainActivity extends AppCompatActivity {
 
     public void lol(View view) {
         btn = findViewById(R.id.btn);
-        txtV.setText("oh yeah ive been clicked! ");
+        txtV.setText("oh yeah ive been clicked!");
     }
 }
